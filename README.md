@@ -32,6 +32,8 @@
 <img src="https://badgen.net/badge/icon/Photoshop?icon=https://api.iconify.design/cib/adobe-photoshop.svg?color=white&label&color=1d64cf">
 <img src="https://badgen.net/badge/icon/Illustrator?icon=https://api.iconify.design/cib/adobe-illustrator.svg?color=white&label&color=c08d3b">
 <img src="https://badgen.net/badge/icon/InDesign?icon=https://api.iconify.design/cib/adobe-indesign.svg?color=white&label&color=791dcf">
+<img src="https://badgen.net/badge/icon/Excel?icon=https://api.iconify.design/ant-design/file-excel-filled.svg?color=white&label&color=61ba3a">
+<img src="https://badgen.net/badge/icon/Sheets?icon=https://api.iconify.design/simple-icons/googlesheets.svg?color=white&label&color=3aba4c">
 </div>
 
 <br>
