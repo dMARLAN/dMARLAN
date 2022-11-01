@@ -2,10 +2,11 @@
 <h4 align="center"> A highly dedicated aspiring software engineer, lifetime computer power user, former rail traffic controller and locomotive engineer from Manitoba, Canada</h4>
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/pufOOG2cplDtfyQXL1/giphy.gif" width="200"/>
+  <img src="images/railwaymeme.webp" width="200"/>
 </div>
 
 ---
+
 <p align="center"><b>💾 Technologies</b></p>
 <div id="badges" align="center">
 <img src="https://badgen.net/badge/icon/Java?icon=https://api.iconify.design/bxl/java.svg?color=white&label&color=487bb3">
