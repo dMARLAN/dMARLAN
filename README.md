@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 My name is Chad Penarsky </h1>
-<h4 align="center"> A life time computer power user, highly dedicated aspiring software engineer, former rail traffic controller and locomotive engineer from Manitoba, Canada</h4>
+<h4 align="center"> A lifetime computer power user, highly dedicated aspiring software engineer, former rail traffic controller and locomotive engineer from Manitoba, Canada</h4>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/pufOOG2cplDtfyQXL1/giphy.gif" width="200"/>
@@ -47,6 +47,26 @@
 
 ---
 
-## My Technologies
+- 📫 How to reach me **<a href="mailto:cpenarsky@shaw.ca" target="blank">cpenarsky@shaw.ca</a>**
+- ✈ Avid Combat Flight Simulator enthusiast (DCS F/A-18C Hornet) and part
+  of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a> leadership team
+- 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master
+- 🚂 Former Rail Traffic Controller and Locomotive Engineer
+- 🖱️ Formerly a professional gamer (Dota 2)
+
+---
+
+### Connect with me
+
+<a href="mailto:cpenarsky@shaw.ca" target="blank"><img align="center" src="https://api.iconify.design/ant-design/mail-outlined.svg?color=white" height="30" width="40" />cpenarsky@shaw.ca</a><br><br>
+I'm an aspiring self-taught software engineer who is highly dedicated to breaking into the tech industry as technology is one of the things I am most passionate about.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chad-penarsky-33a295237/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/linkedin-box-fill.svg?color=white" height="30" width="40" /></a>
+<a href="https://github.com/dMARLAN" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/github-fill.svg?color=white" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/112330203761496064/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/discord-fill.svg?color=white" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dmarlan/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/instagram-fill.svg?color=white" height="30" width="40" /></a>
+
+<p><a href="https://www.buymeacoffee.com/cpenarsky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cpenarsky"/></a></p>
 
 
