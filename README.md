@@ -7,12 +7,12 @@
 
 ---
 
-<p align="center"><b>💾 Technologies</b></p>
+<p align="center"><b>💾 Software Technologies</b></p>
 <div id="badges" align="center">
 <img src="https://badgen.net/badge/icon/Java?icon=https://api.iconify.design/bxl/java.svg?color=white&label&color=487bb3">
 <img src="https://badgen.net/badge/icon/Lua?icon=https://api.iconify.design/cib/lua.svg?color=white&label&color=5048b3">
 <img src="https://badgen.net/badge/icon/Spring?icon=https://api.iconify.design/bxl/spring-boot.svg?color=white&label&color=4bb348">
-<img src="https://badgen.net/badge/icon/Git?icon=github&label&color=2f2f2f">
+<img src="https://badgen.net/badge/icon/Git?icon=https://api.iconify.design/bi/git.svg?color=white&label&color=2f2f2f">
 <img src="https://badgen.net/badge/icon/HTML?icon=https://api.iconify.design/icomoon-free/html-five.svg?color=white&label&color=bf795b">
 <img src="https://badgen.net/badge/icon/CSS?icon=https://api.iconify.design/fa6-brands/css3-alt.svg?color=white&label&color=5b75bf">
 <img src="https://badgen.net/badge/icon/Google Cloud?icon=https://api.iconify.design/cib/google-cloud.svg?color=white&label&color=53b14a">
@@ -24,7 +24,18 @@
 <img src="https://badgen.net/badge/icon/REST?icon=https://api.iconify.design/bxs/cog.svg?color=white&label&color=232323">
 <img src="https://badgen.net/badge/icon/Gradle?icon=https://api.iconify.design/cib/gradle.svg?color=white&label&color=2c3385">
 </div>
+
 <br>
+
+<p align="center"><b>⚙ Other Technologies</b></p>
+<div id="badges" align="center">
+<img src="https://badgen.net/badge/icon/Photoshop?icon=https://api.iconify.design/cib/adobe-photoshop.svg?color=white&label&color=1d64cf">
+<img src="https://badgen.net/badge/icon/Illustrator?icon=https://api.iconify.design/cib/adobe-illustrator.svg?color=white&label&color=c08d3b">
+<img src="https://badgen.net/badge/icon/InDesign?icon=https://api.iconify.design/cib/adobe-indesign.svg?color=white&label&color=791dcf">
+</div>
+
+<br>
+
 <p align="center"><b>📚 Learning</b></p>
 <div id="badges" align="center">
 <img src="https://badgen.net/badge/icon/JavaScript?icon=https://api.iconify.design/akar-icons/javascript-fill.svg?color=white&label&color=bfb95b">
