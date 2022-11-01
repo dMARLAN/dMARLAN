@@ -23,7 +23,7 @@
 <img src="https://badgen.net/badge/icon/REST?icon=https://api.iconify.design/bxs/cog.svg?color=white&label&color=232323">
 <img src="https://badgen.net/badge/icon/Gradle?icon=https://api.iconify.design/cib/gradle.svg?color=white&label&color=2c3385">
 </div>
-
+<br>
 <p align="center"><b>📚 Learning</b></p>
 <div id="badges" align="center">
 <img src="https://badgen.net/badge/icon/JavaScript?icon=https://api.iconify.design/akar-icons/javascript-fill.svg?color=white&label&color=bfb95b">
