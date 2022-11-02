@@ -61,7 +61,6 @@
 
 ---
 
-- 📫 How to reach me **<a href="mailto:cpenarsky@shaw.ca" target="blank">cpenarsky@shaw.ca</a>**
 - ✈ Avid Combat Flight Simulator enthusiast (DCS F/A-18C Hornet) and part
   of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a> leadership team
 - 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master
