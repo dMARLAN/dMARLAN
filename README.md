@@ -16,7 +16,7 @@
 <img src="https://badgen.net/badge/icon/HTML?icon=https://api.iconify.design/icomoon-free/html-five.svg?color=white&label&color=bf795b">
 <img src="https://badgen.net/badge/icon/CSS?icon=https://api.iconify.design/fa6-brands/css3-alt.svg?color=white&label&color=5b75bf">
 <img src="https://badgen.net/badge/icon/Google Cloud?icon=https://api.iconify.design/cib/google-cloud.svg?color=white&label&color=53b14a">
-<img src="https://badgen.net/badge/icon/C%23?icon=https://api.iconify.design/file-icons/c.svg?color=white&label&color=752c85">
+<img src="https://badgen.net/badge/icon/C%23?icon=https://api.iconify.design/teenyicons/c-sharp-solid.svg?color=white&label&color=752c85">
 <img src="https://badgen.net/badge/icon/Windows?icon=windows&label&color=64b0b1">
 <img src="https://badgen.net/badge/icon/Azure?icon=https://api.iconify.design/teenyicons/azure-solid.svg?color=white&label&color=2c4e85">
 <img src="https://badgen.net/badge/icon/OAuth 2.0?icon=https://api.iconify.design/bi/shield-lock-fill.svg?color=white&label&color=818181">
