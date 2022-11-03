@@ -44,7 +44,7 @@
 <img src="https://badgen.net/badge/icon/Typescript?icon=https://api.iconify.design/akar-icons/typescript-fill.svg?color=white&label&color=8c9dc0">
 <img src="https://badgen.net/badge/icon/Python?icon=https://api.iconify.design/akar-icons/python-fill.svg?color=white&label&color=c0b98c">
 <img src="https://badgen.net/badge/icon/Linux?icon=https://api.iconify.design/codicon/terminal-linux.svg?color=white&label&color=a8a8a8">
-<img src="https://badgen.net/badge/icon/PostgresSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
+<img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
 </div>
 
 ---
