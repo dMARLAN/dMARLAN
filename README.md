@@ -45,6 +45,9 @@
 <img src="https://badgen.net/badge/icon/Python?icon=https://api.iconify.design/akar-icons/python-fill.svg?color=white&label&color=c0b98c">
 <img src="https://badgen.net/badge/icon/Linux?icon=https://api.iconify.design/codicon/terminal-linux.svg?color=white&label&color=a8a8a8">
 <img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
+<img src="https://badgen.net/badge/icon/GraphQL?icon=https://api.iconify.design/fontisto/graphql.svg?color=white&label&color=a24da3">
+<img src="https://badgen.net/badge/icon/Docker?icon=https://api.iconify.design/mdi/docker.svg?color=white&label&color=3838b6">
+<img src="https://badgen.net/badge/icon/Selenium?icon=https://api.iconify.design/simple-icons/selenium.svg?color=white&label&color=3897b6">
 </div>
 
 ---
