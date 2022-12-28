@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 My name is Chad Penarsky </h1>
-<h4 align="center"> A highly dedicated aspiring software engineer, lifetime computer power user, former rail traffic controller and locomotive engineer from Manitoba, Canada</h4>
+<h4 align="center"> A highly dedicated software engineer, lifetime computer power user, former rail traffic controller and locomotive engineer from Manitoba, Canada</h4>
 
 <div id="header" align="center">
   <img src="images/railwaymeme.webp" width="200"/>
