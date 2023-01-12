@@ -77,7 +77,6 @@
 ### Connect with me
 
 <a href="mailto:cpenarsky@shaw.ca" target="blank"><img align="center" src="https://api.iconify.design/ant-design/mail-outlined.svg?color=white" height="30" width="40" />cpenarsky@shaw.ca</a><br><br>
-I'm an aspiring self-taught software engineer who is highly dedicated to breaking into the tech industry.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chad-penarsky-33a295237/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/linkedin-box-fill.svg?color=white" height="30" width="40" /></a>
