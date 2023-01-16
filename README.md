@@ -66,7 +66,7 @@
   of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a> leadership team
 - 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master
 - 🚂 Former Rail Traffic Controller and Locomotive Engineer
-- 🖱️ Formerly a professional gamer (Dota 2)
+- 🖱️ Formerly a professional gamer (Dota 2).
 
 ---
 
