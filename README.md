@@ -56,7 +56,7 @@
 
 <div align="center">
 
-![Chad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dMARLAN&show_icons=true&theme=ayu-mirage)
+![Chad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dMARLAN&show_icons=true&theme=ayu-mirage&count_private=true)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=dMARLAN&theme=ayu-mirage)](https://github.com/dMARLAN)
 
