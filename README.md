@@ -62,7 +62,7 @@
 
 ---
 
-- ✈ Avid Combat Flight Simulator enthusiast (DCS F/A-18C Hornet) and part.
+- ✈ Avid Combat Flight Simulator enthusiast (DCS F/A-18C Hornet) and part
   of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a> leadership team
 - 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master
 - 🚂 Former Rail Traffic Controller and Locomotive Engineer
