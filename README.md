@@ -28,6 +28,8 @@
 <img src="https://badgen.net/badge/icon/Docker?icon=https://api.iconify.design/mdi/docker.svg?color=white&label&color=3838b6">
 <img src="https://badgen.net/badge/icon/Linux?icon=https://api.iconify.design/codicon/terminal-linux.svg?color=white&label&color=a8a8a8">
 <img src="https://badgen.net/badge/icon/Tilt?icon=https://api.iconify.design/file-icons/tilt.svg?color=white&label&color=52c737">
+<img src="https://badgen.net/badge/icon/NGINX?icon=https://api.iconify.design/simple-icons/nginx.svg?color=white&label&color=019639">
+<img src="https://badgen.net/badge/icon/Kubernetes?icon=https://api.iconify.design/mdi/kubernetes.svg?color=white&label&color=3154d7">
 </div>
 
 <br>
@@ -45,7 +47,6 @@
 
 <p align="center"><b>📚 Learning</b></p>
 <div id="badges" align="center">
-<img src="https://badgen.net/badge/icon/Kubernetes?icon=https://api.iconify.design/mdi/kubernetes.svg?color=white&label&color=3154d7">
 <img src="https://badgen.net/badge/icon/JavaScript?icon=https://api.iconify.design/akar-icons/javascript-fill.svg?color=white&label&color=bfb95b">
 <img src="https://badgen.net/badge/icon/Typescript?icon=https://api.iconify.design/akar-icons/typescript-fill.svg?color=white&label&color=8c9dc0">
 <img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
