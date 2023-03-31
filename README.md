@@ -41,6 +41,7 @@
 <img src="https://badgen.net/badge/icon/InDesign?icon=https://api.iconify.design/cib/adobe-indesign.svg?color=white&label&color=791dcf">
 <img src="https://badgen.net/badge/icon/Excel?icon=https://api.iconify.design/ant-design/file-excel-filled.svg?color=white&label&color=61ba3a">
 <img src="https://badgen.net/badge/icon/Sheets?icon=https://api.iconify.design/simple-icons/googlesheets.svg?color=white&label&color=3aba4c">
+<img src="https://badgen.net/badge/icon/DaVinci Resolve?icon=https://api.iconify.design/ph/film-reel.svg?color=white&label&color=c58a2e">
 </div>
 
 <br>
