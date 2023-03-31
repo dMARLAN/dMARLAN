@@ -30,6 +30,7 @@
 <img src="https://badgen.net/badge/icon/Tilt?icon=https://api.iconify.design/file-icons/tilt.svg?color=white&label&color=52c737">
 <img src="https://badgen.net/badge/icon/NGINX?icon=https://api.iconify.design/simple-icons/nginx.svg?color=white&label&color=019639">
 <img src="https://badgen.net/badge/icon/Kubernetes?icon=https://api.iconify.design/mdi/kubernetes.svg?color=white&label&color=3154d7">
+<img src="https://badgen.net/badge/icon/Shell?icon=https://api.iconify.design/mdi/bash.svg?color=white&label&color=2f2f2f">
 </div>
 
 <br>
