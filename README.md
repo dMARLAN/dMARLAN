@@ -49,6 +49,7 @@
 <div id="badges" align="center">
 <img src="https://badgen.net/badge/icon/JavaScript?icon=https://api.iconify.design/akar-icons/javascript-fill.svg?color=white&label&color=bfb95b">
 <img src="https://badgen.net/badge/icon/Typescript?icon=https://api.iconify.design/akar-icons/typescript-fill.svg?color=white&label&color=8c9dc0">
+<img src="https://badgen.net/badge/icon/React?icon=https://api.iconify.design/carbon/logo-react.svg?color=white&label&color=83d3e1">
 <img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
 <img src="https://badgen.net/badge/icon/Selenium?icon=https://api.iconify.design/simple-icons/selenium.svg?color=white&label&color=3897b6">
 </div>
