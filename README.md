@@ -71,7 +71,7 @@
   of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a>.
 - 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master.
 - 🚂 Former Rail Traffic Controller and Locomotive Engineer.
-- 🖱️ Formerly a professional gamer (Dota 2).
+- 🖱️ Competitive gamer (Dota 2).
 
 ---
 
@@ -86,5 +86,3 @@
 <a href="https://www.instagram.com/dmarlan/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/instagram-fill.svg?color=white" height="30" width="40" /></a>
 
 <p><a href="https://www.buymeacoffee.com/cpenarsky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cpenarsky"/></a></p>
-
-
