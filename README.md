@@ -17,7 +17,7 @@
 <img src="https://badgen.net/badge/icon/Google Cloud?icon=https://api.iconify.design/cib/google-cloud.svg?color=white&label&color=53b14a">
 <img src="https://badgen.net/badge/icon/C%23?icon=https://api.iconify.design/teenyicons/c-sharp-solid.svg?color=white&label&color=752c85">
 <img src="https://badgen.net/badge/icon/Windows?icon=windows&label&color=64b0b1">
-<img src="https://badgen.net/badge/icon/Azure?icon=https://api.iconify.design/teenyicons/azure-solid.svg?color=white&label&color=2c4e85">
+<img src="https://badgen.net/badge/icon/AWS?icon=https://api.iconify.design/cib/amazon-aws.svg?color=white&label&color=ebb734">
 <img src="https://badgen.net/badge/icon/OAuth 2.0?icon=https://api.iconify.design/bi/shield-lock-fill.svg?color=white&label&color=818181">
 <img src="https://badgen.net/badge/icon/Regex?icon=https://api.iconify.design/bi/regex.svg?color=white&label&color=b78cc0">
 <img src="https://badgen.net/badge/icon/REST?icon=https://api.iconify.design/bxs/cog.svg?color=white&label&color=232323">
@@ -31,6 +31,10 @@
 <img src="https://badgen.net/badge/icon/Kubernetes?icon=https://api.iconify.design/mdi/kubernetes.svg?color=white&label&color=3154d7">
 <img src="https://badgen.net/badge/icon/Shell?icon=https://api.iconify.design/mdi/bash.svg?color=white&label&color=2f2f2f">
 <img src="https://badgen.net/badge/icon/Helm?icon=https://api.iconify.design/simple-icons/helm.svg?color=white&label&color=091c84">
+<img src="https://badgen.net/badge/icon/JavaScript?icon=https://api.iconify.design/akar-icons/javascript-fill.svg?color=white&label&color=bfb95b">
+<img src="https://badgen.net/badge/icon/Typescript?icon=https://api.iconify.design/akar-icons/typescript-fill.svg?color=white&label&color=8c9dc0">
+<img src="https://badgen.net/badge/icon/React?icon=https://api.iconify.design/carbon/logo-react.svg?color=white&label&color=83d3e1">
+<img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
 </div>
 
 <br>
@@ -49,17 +53,15 @@
 
 <p align="center"><b>📚 Learning</b></p>
 <div id="badges" align="center">
-<img src="https://badgen.net/badge/icon/JavaScript?icon=https://api.iconify.design/akar-icons/javascript-fill.svg?color=white&label&color=bfb95b">
-<img src="https://badgen.net/badge/icon/Typescript?icon=https://api.iconify.design/akar-icons/typescript-fill.svg?color=white&label&color=8c9dc0">
-<img src="https://badgen.net/badge/icon/React?icon=https://api.iconify.design/carbon/logo-react.svg?color=white&label&color=83d3e1">
-<img src="https://badgen.net/badge/icon/PostgreSQL?icon=https://api.iconify.design/akar-icons/postgresql-fill.svg?color=white&label&color=354ebd">
 <img src="https://badgen.net/badge/icon/Selenium?icon=https://api.iconify.design/simple-icons/selenium.svg?color=white&label&color=3897b6">
+<img src="https://badgen.net/badge/icon/C++?icon=https://api.iconify.design/bxl/c-plus-plus.svg?color=white&label&color=2737e8">
+<img src="https://badgen.net/badge/icon/Rust?icon=https://api.iconify.design/fa-brands/rust.svg?color=white&label&color=e36b1b">
 </div>
 
 ---
 
-- Lifetime Computer Power User
-- Passionate Software Engineer
+- 💻 Lifetime Computer Power User
+- 👨‍💻 Passionate Software Engineer
 - ✈ Avid Combat Flight Simulator enthusiast (DCS F/A-18C Hornet) and owner
   of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a>.
 - 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master.
