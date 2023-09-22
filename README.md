@@ -1,5 +1,4 @@
-<h1 align="center"> 👋 My name is Chad Penarsky </h1>
-<h4 align="center"> A highly dedicated software engineer, lifetime computer power user, former rail traffic controller and locomotive engineer from Manitoba, Canada</h4>
+<h1 align="center">👋 Chad Penarsky</h1>
 
 <div id="header" align="center">
   <img src="images/railwaymeme.webp" width="200"/>
@@ -59,14 +58,8 @@
 
 ---
 
-<div align="center">
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=dMARLAN&theme=ayu-mirage)](https://github.com/dMARLAN)
-
-</div>
-
----
-
+- Lifetime Computer Power User
+- Passionate Software Engineer
 - ✈ Avid Combat Flight Simulator enthusiast (DCS F/A-18C Hornet) and owner
   of <a href="https://virtualcvw8.com/" target="blank">Virtual CVW-8</a>.
 - 🎲 Long time Pathfinder 1st Edition & D&D 5th Edition Dungeon Master.
@@ -84,5 +77,3 @@
 <a href="https://github.com/dMARLAN" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/github-fill.svg?color=white" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/112330203761496064/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/discord-fill.svg?color=white" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dmarlan/" target="blank"><img align="center" src="https://api.iconify.design/akar-icons/instagram-fill.svg?color=white" height="30" width="40" /></a>
-
-<p><a href="https://www.buymeacoffee.com/cpenarsky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cpenarsky"/></a></p>
